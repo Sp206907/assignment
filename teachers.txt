@@ -1,0 +1,5 @@
+Severus Snape 51 True Math 7 800000
+Albus Dumbledore 71 True Philosophy 25 1500000
+Minerva McGonagall 62 False Sociology 17 1100000
+Bellatrix Lestrange 35 False Programming 3 570000
+Sirius Black 49 True Physics 9 750000
